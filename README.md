@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/az-400demo/ContosoAir/_apis/build/status/congiuluc.ContosoAir?branchName=master)](https://dev.azure.com/az-400demo/ContosoAir/_build/latest?definitionId=3&branchName=master)
 
 # Microsoft.Github CI Demo
 
