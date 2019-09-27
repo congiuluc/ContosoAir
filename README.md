@@ -1,7 +1,7 @@
 
 [![Build Status](https://dev.azure.com/az-400demo/ContosoAir/_apis/build/status/congiuluc.ContosoAir?branchName=master)](https://dev.azure.com/az-400demo/ContosoAir/_build/latest?definitionId=3&branchName=master)
 
-# Microsoft.Github CI Demo By LCO
+# Microsoft.Github CI Demo AZ-400
 
 Demo website application for Contoso Air.  
 Runs a nodejs server (Express v4.16) that stores customer booked flights in a CosmosDb database.
